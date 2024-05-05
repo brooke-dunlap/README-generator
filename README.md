@@ -13,6 +13,8 @@ N/A
 
 Users must navigate to the Develop folder and run: node index.js. Once this is done, the app will provide a series of questions the user must answer. After the questions are answered, the program will automatically generate the README file. A demonstration video is provided in the link below.
 
+Demo Video: (https://drive.google.com/file/d/1S4n_es_LfFUbph845ZoQPp4FD4GnAAix/view)
+
 ## Credits
 
 Starter code for this repo was provided by SMU for their coding bootcamp. Collaborated with chatGPT.
